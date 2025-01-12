@@ -1,1 +1,1 @@
-# Hastane_Yonetim_ve_Randevu_Sistemi
+# Hastane Yönetim Ve Randevu Sistemi
